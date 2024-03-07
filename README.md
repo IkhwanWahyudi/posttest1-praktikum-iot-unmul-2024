@@ -9,6 +9,10 @@
 <strong>Deskripsi:</strong>
 Pada rangkaian ini menghasilkan output berupa 2 buah LED yang dapat menyala, webserver yang menggunakan NodeMCU dengan mode WiFi_STA digunakan untuk mengatur LED, jika LED 1 menyala maka LED 2 mati, begitu pula sebaliknya, jika LED 2 menyala maka LED 1 mati.
 
+<strong>Pembagian Tugas</strong>
+1. Moh. Ikhwan Wahyudi   : Membuat struktur coding dan mengatur konfigurasi webserver.
+2. Pranata Eka Pramudya  : Menyusun rangkaian komponen LED dan NodeMCU
+
 <strong>Komponen yang digunakan:</strong>
 1. ESP8266
 2. Kabel Jumper
